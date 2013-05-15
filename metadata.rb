@@ -1,4 +1,4 @@
-name             "zeromq-cookbook"
+name             "zeromq"
 maintainer       "Thomas Rampelberg"
 maintainer_email "thomas@saunter.org"
 license          "Apache 2.0"
